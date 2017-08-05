@@ -1,7 +1,6 @@
 ---
 title: Twocola Studio
 name: Twocola Studio
-project-name: Twocola Studio
 ---
 # Twocola Studio
 
@@ -17,10 +16,10 @@ Update: 2017-08-05
 
 ## Twocola PHP Engine
 
-*Twocola Studio旗下PHP框架引擎*
-
 [![GitHub Tag](https://img.shields.io/github/tag/jokin1999/TwocolaPHPEngine.svg?style=flat-square)](https://github.com/jokin1999/TwocolaPHPEngine)
 [![GitHub license](https://img.shields.io/badge/license-Apache%202-blue.svg?style=flat-square)](https://raw.githubusercontent.com/jokin1999/TwocolaPHPEngine/master/LICENSE)
+
+*Twocola Studio旗下PHP框架引擎*
 
 ### 相关链接
 
