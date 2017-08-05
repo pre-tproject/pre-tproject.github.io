@@ -1,5 +1,5 @@
 ---
-  title: Twocola Studio
+  project-name: Twocola Studio
 ---
 # Twocola Studio
 
