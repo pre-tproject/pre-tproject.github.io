@@ -27,5 +27,3 @@ Update: 2017-08-05
 ### 开发计划
 
 1、[整体更新计划](http://pre-tproject.github.io/tce/upgrade.html)
-
----
