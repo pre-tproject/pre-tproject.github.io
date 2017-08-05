@@ -1,5 +1,7 @@
 ---
-  project-name: Twocola Studio
+title: Twocola Studio
+name: Twocola Studio
+project-name: Twocola Studio
 ---
 # Twocola Studio
 
